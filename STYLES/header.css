@@ -14,11 +14,17 @@
     }
 
     @media screen and (min-widt: 820px)  {
-        .container_titulo, .container_titulo--negrito {
+        .container_titulo, .container_titulo--negrito 
             font-size: 30px;
-        }
+        
     }
         .container__titulo {
             font-
 
         }
+
+
+
+
+        @media screen and (min-width:)
+        
